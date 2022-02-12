@@ -8,3 +8,4 @@ Get information about a database from MariaDB using C++ with mysql.h
 - Optional: a Linux istance (You can also use Windows or Mac OS)
 
 # Compile from source
+``WORK IN PROGRESS``
